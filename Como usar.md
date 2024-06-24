@@ -4,7 +4,8 @@
    <details>
     <summary>Qual o Propósito?</summary>
   **Poupar seu tempo valioso ao inves de ficar horas completanto os cursos que o governo obriga a fazer**
-   ![image]([https://github.com/ilytobias/Khan-Destroyer/assets/165577429/c95d39df-6370-4e6a-86ae-b55cb34f6842](https://cdn.discordapp.com/attachments/1196603322069680139/1207861163300233297/kid.gif?ex=667ac61e&is=6679749e&hm=273405c3a3b9556bfb74261ea6a74d32f9f95ffa9bd091a0402dac42172c3c71&))
+  ![image](https://cdn.discordapp.com/attachments/1196603322069680139/1207861163300233297/kid.gif?ex=667ac61e&is=6679749e&hm=273405c3a3b9556bfb74261ea6a74d32f9f95ffa9bd091a0402dac42172c3c71&)
+  </details>
   </details>
 
 * Segura esse código e solta nos seus bookmarks

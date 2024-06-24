@@ -4,7 +4,7 @@
    <details>
     <summary>Qual o Propósito?</summary>
   **Poupar seu tempo valioso ao inves de ficar horas completanto os cursos que o governo obriga a fazer**
-  ![image](https://cdn.discordapp.com/attachments/1196603322069680139/1207861163300233297/kid.gif?ex=667ac61e&is=6679749e&hm=273405c3a3b9556bfb74261ea6a74d32f9f95ffa9bd091a0402dac42172c3c71&)
+![negro_cat](https://github.com/YuriLitvin/Lr/assets/124403860/45d33251-cb9b-4245-bfa5-69efcc1a254d)
   </details>
   </details>
 

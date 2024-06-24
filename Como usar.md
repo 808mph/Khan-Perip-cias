@@ -7,8 +7,8 @@
   </details>
   </details>
 
-* 1.Segura esse código e solta nos seus bookmarks (o código so funciona se voce estiver em um url do khan)
-* 2.Seja feliz ksksk
+* 1.Segura esse código e solta nos seus bookmarks 
+* 2.Seja feliz ksksk (o código so funciona se voce estiver em um url do khan)
 
   ![negro_cat](https://github.com/YuriLitvin/Lr/assets/124403860/45d33251-cb9b-4245-bfa5-69efcc1a254d)
 ```js

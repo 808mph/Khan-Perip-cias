@@ -3,11 +3,11 @@
 
    <details>
     <summary>Qual o Propósito?</summary>
-   Poupar seu tempo valioso ao inves de ficar horas completanto os cursos que o governo obriga a fazer 
+   Poupar seu tempo valioso ao invés de ficar horas completando os cursos que o governo obriga a fazer. 
   </details>
   </details>
 
-* 1.Segura esse código e solta nos seus bookmarks
+* 1.Segura esse código e solta nos seus bookmarks (o código so funciona se voce estiver em um url do khan)
 * 2.Seja feliz ksksk
 
   ![negro_cat](https://github.com/YuriLitvin/Lr/assets/124403860/45d33251-cb9b-4245-bfa5-69efcc1a254d)

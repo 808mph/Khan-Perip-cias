@@ -3,7 +3,7 @@
 
    <details>
     <summary>Qual o Propósito?</summary>
-  // Poupar seu tempo valioso ao inves de ficar horas completanto os cursos que o governo obriga a fazer //
+  ## Poupar seu tempo valioso ao inves de ficar horas completanto os cursos que o governo obriga a fazer 
   </details>
   </details>
 

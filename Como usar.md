@@ -1,4 +1,4 @@
-[< Go back](https://github.com/YuriLitvin/Khan-Perip-cias/)
+[< Voltar](https://github.com/YuriLitvin/Khan-Perip-cias/)
 # Khan nunca mais 🏌️‍♀️
 
    <details>
